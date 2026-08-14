@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-9lsuqc.indocuansite.online/sitemap.xml
